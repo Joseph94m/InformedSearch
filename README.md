@@ -1,6 +1,6 @@
 # InformedSearch    
 
-## We implement an AI problem formulation. In AI, a problem is defined as an {Initial state, Goal state/test, Cost function, Actions}    
+## We implement an AI problem formulation. In AI, a problem is defined as an {Initial state, Goal state/test, Cost function, Actions}. Some formulations can also include the notion of transition models, but in our case, it is implicit.  
 
 ## We also implement UCS and A* in the context of such a definition.   
 
